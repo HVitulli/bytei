@@ -5,17 +5,16 @@ Página:
 https://www.facebook.com/byteiTec
 
 Grupo:
+(Nome) - (Nusp) - (Github)
 
-Hugo de Azevedo Vitulli - 10295221
+Hugo de Azevedo Vitulli - 10295221 - HVitulli
 
-Glauco Henrique Borges da Costa - 10295134
+Glauco Henrique Borges da Costa - 10295134 - Glauco07
 
-Guilherme Henrique Ribeiro Coelho - 10295200
+Guilherme Henrique Ribeiro Coelho - 10295200 - GuilhermeHRC
 
-Jamille Sodré Pache Gomes - 10262478
+Jamille Sodré Pache Gomes - 10262478 -
 
-Matheus Vinicius Gouvea de Godoi - 10295217
+Matheus Vinicius Gouvea de Godoi - 10295217 - MatheusGodoi
 
-Tsai Chen Zhe - 10295113
-
-TESTE
+Tsai Chen Zhe - 10295113 -
