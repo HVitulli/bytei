@@ -1,4 +1,5 @@
 # Bytei Tec
+![alt text](https://github.com/MatheusGodoi/bytei/blob/master/Facebok/CapaBytei.jpg)
 Repositório da Empresa Bytei da disciplina SSC0527 - Engenharia de Software.
 
 Página:
