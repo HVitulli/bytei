@@ -5,6 +5,7 @@ Página:
 https://www.facebook.com/byteiTec
 
 Grupo:
+(Nome) - (Nusp) - (Github)
 
 Hugo de Azevedo Vitulli - 10295221 - HVitulli
 
