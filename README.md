@@ -13,7 +13,7 @@ Glauco Henrique Borges da Costa - 10295134 - Glauco07
 
 Guilherme Henrique Ribeiro Coelho - 10295200 - GuilhermeHRC
 
-Jamille Sodré Pache Gomes - 10262478 -
+Jamille Sodré Pache Gomes - 10262478 - JamilleSodre
 
 Matheus Vinicius Gouvea de Godoi - 10295217 - MatheusGodoi
 
