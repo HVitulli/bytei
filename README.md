@@ -6,7 +6,7 @@ https://www.facebook.com/byteiTec
 
 Grupo:
 
-Hugo de Azevedo Vitulli - 10295221
+Hugo de Azevedo Vitulli - 10295221\n
 Glauco Henrique Borges da Costa - 10295134
 Guilherme Henrique Ribeiro Coelho - 10295200
 Jamille Sodré Pache Gomes - 10262478
